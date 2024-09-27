@@ -1,3 +1,4 @@
+from rich import print
 from art import logo, vs
 def showQuestion(question_1, question_2, score):
     print(logo)
